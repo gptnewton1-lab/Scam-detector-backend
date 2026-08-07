@@ -1,3 +1,0 @@
-cwd= C:\Users\USER\Desktop\Python
-main file= C:\Users\USER\Desktop\Python\main.py
-routes= ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/', '/health', '/analyze', '/register', '/login', '/analyze', '/history', '/me']

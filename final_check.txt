@@ -1,0 +1,3 @@
+/health -> 200 {"status":"ok","service":"Scam Detector API"}
+/ -> 200 {"service":"Scam Detector API","docs":"/docs","health":"/health","message":"Use the /docs page or the /api/* JSON endpoi
+/openapi.json -> 200 {"openapi":"3.1.0","info":{"title":"Scam Detector API","version":"1.0.0"},"paths":{"/health":{"get":{"summary":"Health",
